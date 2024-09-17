@@ -1,0 +1,10 @@
+Name:
+
+
+Surname:
+
+
+ID: 
+
+
+Balance:
