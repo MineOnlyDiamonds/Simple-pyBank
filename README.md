@@ -4,3 +4,4 @@ I wrote a simple bank in Python. To log in, the username is "Owner" with passwor
 To delete accounts, go to pyBank/data/customers and by ID you can find the person's account, and delete the file.
 
 The Python program will change the customer's text file and read a text file containing the staff's names and passwords. 
+The loan function is kinda broken.
